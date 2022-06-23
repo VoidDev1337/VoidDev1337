@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/185798943337086986)](https://discord.com/users/185798943337086986)
+
 -----
 ```python
 from Github import GithubReadme
